@@ -1,0 +1,2 @@
+# spf
+shoot person first
