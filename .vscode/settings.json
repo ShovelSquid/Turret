@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "spf.sln"
+    "dotnet.defaultSolution": "Turret.sln"
 }
